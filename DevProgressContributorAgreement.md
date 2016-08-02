@@ -5,6 +5,7 @@
 We require that contributors to DevProgress (as defined below) agree to this DevProgress Contributor Agreement (DPCA) to ensure that contributions to DevProgress have acceptable licensing terms, and contributors adhere to our Confidentiality, and Non-Conflict agreements. 
 
 ## Terms
+
 ### 0.  Definitions.
 
 "**Acceptable License**" means a license selected by the DNC to cover each DevProgress project as identified by the DNC, currently located at http://devprogress.github.io/acceptable-licenses, as that list may be revised from time to time by the DevProgress Leadership.

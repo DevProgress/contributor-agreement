@@ -82,14 +82,7 @@ Sections 1 through 3 of this DPCA do not apply to any Contribution to the extent
  
 ### 5.  Acceptance.
 
-You must signify Your assent to the terms of this DPCA through specific electronic means established by DevProgress (such as by click-through acceptance means.)
-
-
-* Full name:
-* E-Mail:
-* Country:
-* Telephone:
-* Facsimile:
+You must signify Your assent to the terms of this DPCA through specific electronic means established by DevProgress (such as by click-through acceptance and/or electronic signature.)
 
 You may also, at Your option, and without eliminating the requirement set forth in the preceding paragraph, send a copy of this DPCA, bearing Your written signature indicating Your acceptance of its terms, by email to legal@devprogress.us, or by postal mail to:
 
@@ -153,32 +146,12 @@ By signing this document, you are indicating effective immediately, you have rea
 
 ~~~
 
-                    DevProgress                                   Contributor 
-
-Name:        _________________________      Name:          ________________________
-
-Signature:   _________________________      Signature:     ________________________
-
-Date:        _________________________      Date:          ________________________
-
-Title:       _________________________      Title:         ________________________
-
-
-ACCEPTED:
-
-Democratic National Committee
-
-By         _________________________
-
-Its        _________________________
-
-
-
-DevProgress
-c/o Democratic National Committee
-430 South Capitol Street Southeast 
-Washington, DC 20003
-USA
-~~~
-
-
+                    CONTRIBUTOR            ACCEPTED:
+                                           
+Name:        _________________________     Democratic National Committee
+                                           
+Signature:   _________________________     By         _________________________
+                                           
+Date:        _________________________     Its        _________________________
+                                       
+Title:       _________________________ 

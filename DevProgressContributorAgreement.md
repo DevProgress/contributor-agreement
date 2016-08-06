@@ -142,7 +142,7 @@ This Agreement will be governed by the laws of the District of Columbia without 
 
 You have carefully read all of the provisions of this Agreement and agree that (a) the same are necessary for the reasonable and proper protection of the Committee's business, operations and affairs, (b) the Committee has been induced to enter into and continue its relationship with You in reliance upon Your compliance with the provisions of this Agreement, (c) every provision of this Agreement is reasonable with respect to its scope and duration, and (d) You have received a copy of this Agreement.
 
-By signing this document, you are indicating effective immediately, you have read and agree to adhere to the DevProgress Contributors Agreement in text above, source: http://github.com/devprogress/contributors-agreement.
+By signing this document, you are indicating effective immediately, you have read and agree to adhere to the DevProgress Contributor Agreement in text above, source: http://github.com/devprogress/contributor-agreement.
 
 ~~~
 
